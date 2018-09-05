@@ -1,6 +1,8 @@
-Daily PLanner Capstone project
+Daily Planner Capstone project
 The Daily planner will allow users to use an app instead of a bulky paper planner to keep track of all of the things you would normally see in a day planner. It will keep basic information about tasks, appointments, vehicle maintenance and an address book all in one place.
  This project is a digital day planner. It will allow the user to create an account and use the tools in the app to organize their month and week.
+
+Details:
 
 The planner will have a month at a glance view and a weekly view. A section for names and addresses. A section for vehicle maintenance records and a monthly budget section.
 
