@@ -14,7 +14,7 @@ A checkbox to check of tasks in the to do list instead of just deleting them
 Populating the monthly view with the tasks from the weekly view and those tasks show they are checked off when they are completed.
 
 # dayplannercapstone
-# dayplannercapstone
+
 
 components:
 monthly calendar where you can mark off days
@@ -25,4 +25,4 @@ address book
 The monthly view will require props from the task list in the weekly view
 and the vehicle maintenance section
 the weekly view will require props from the address book for planning appointments with an address and phone number
-<img src="./images/capstone.png" alt=image>
+![picture](img/capstone.png)
