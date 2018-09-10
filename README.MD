@@ -17,9 +17,9 @@ Stretch goals--adding an outside API that populates the monthly calendar with da
 
 Components:
 
-monthly calendar where you can mark off days
-weekly view with a task list 
-vehicle maintenance tracker
+monthly calendar where you can mark off days-
+weekly view with a task list-
+vehicle maintenance tracker-
 address book
 
 Dependencies:
