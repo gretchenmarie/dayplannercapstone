@@ -19,7 +19,7 @@ components: monthly calendar where you can mark off days weekly view with a task
 Dependencies
 The task list will have information-the information in state the information from that list will be passed as props to the monthly and weekly views.
 
-The address book will have information that is pased as props to the weekly view. As detiled information for appointments.
+The address book will have information that is pased as props to the weekly view. As detailed information for appointments.
 
 The vehicle maintenance section will pass information to the monthly view and the weekly view.
 
