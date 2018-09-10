@@ -27,4 +27,4 @@ address book
 The monthly view will require props from the task list in the weekly view
 and the vehicle maintenance section
 the weekly view will require props from the address book for planning appointments with an address and phone number
-![picture](images/capstone.png)
+![picture](images/newimage.png)
