@@ -14,8 +14,9 @@ The Api’s will be databases created by the user when they enter in the informa
 Stretch goals--adding an outside API that populates the monthly calendar with daily weather information.
 A checkbox to check of tasks in the to do list instead of just deleting them
 Populating the monthly view with the tasks from the weekly view and those tasks show they are checked off when they are completed.
+Addin other sections to the journal-like a grocery list.
 
-# dayplannercapstone
+
 
 
 components:
@@ -24,7 +25,12 @@ weekly view with a task list
 vehicle maintenance tracker
 address book
 
-The monthly view will require props from the task list in the weekly view
-and the vehicle maintenance section
-the weekly view will require props from the address book for planning appointments with an address and phone number
+
+The task list will have information-the information in state
+the information from that list will be passed as props to the monthly and weekly views.
+
+The address book will have information that is pased as props to the weekly view. As detiled information for appointments.
+
+The vehilce maintenance section will pass information to the monthly view and the weekly view.
+
 ![picture](images/newimage.png)
