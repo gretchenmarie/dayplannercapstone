@@ -7,11 +7,9 @@ MVP:
 
 The planner will have a month at a glance view and a weekly view. 
 
-The weekly view will have a to do list that will also show up on the monthly view. All entries can be edited and deleted.
-
 The to do list will list the most immediate tasks first and the current day's tasks a different color.
 
- monthly calendar as a table
+ monthly calendar showing current date
 
 Create a Json database
 
@@ -20,8 +18,7 @@ Stretch goals:
  A section for names and addresses.
  The weekly view will be able to import addresses for appointments.
 
-adding an outside API that populates the monthly calendar with daily weather information.
-A checkbox to check of tasks in the to do list instead of just deleting them
+
 Populating the monthly view with the tasks from the weekly view and those tasks show they are checked off when they are completed.
 Addin other sections to the journal-like a grocery list.
 
